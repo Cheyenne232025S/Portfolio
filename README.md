@@ -1,2 +1,2 @@
 # Portfolio
-my Data science journey
+My Data science Journey
