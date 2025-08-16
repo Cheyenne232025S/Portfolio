@@ -2,6 +2,5 @@
 
 Welcome! View my project:
 
-- [Rendered HTML report](./sleep-health-analysis.html)
+- [Rendered HTML report](./sleep-and-health-analysis.html)
 - [Quarto source (.qmd)](../projects/sleep-health-analysis.qmd)
-edit
