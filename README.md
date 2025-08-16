@@ -5,5 +5,5 @@ My Data Science Journey.
 
 ### Sleep and Health Analysis
 - [Quarto source file](projects/sleep-health-analysis.qmd)
-- [Rendered HTML report](https://cheyenne232025s.github.io/Portfolio/sleep-health-analysis.html)
+- [Rendered HTML report](https://cheyenne232025s.github.io/Portfolio/sleep-and-health-analysis.html)
     
