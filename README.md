@@ -16,5 +16,5 @@ Data Driven solution integrated with UI and LLM.<br>
 [🔗 View the full repository here] [https://github.com/<Cheyenne232025S>/code-fest-2025](https://github.com/Cheyenne232025S/code-fest-2025)
 
 ## Resume
-- [View my Resume (PDF)](https://cheyenne232025s.github.io/Portfolio/resume.pdf)
+- [View my Resume (PDF)](https://cheyenne232025s.github.io/Portfolio/resume_v2.pdf)
     
