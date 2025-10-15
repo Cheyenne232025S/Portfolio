@@ -1,9 +1,20 @@
-# Portfolio    
+# Portfolio  
+My Data Science Journey.
 
-Welcome! View my project:
+## Projects
 
-- [Rendered HTML report](./sleep-and-health-analysis.html)
-- [Quarto source (.qmd)](../projects/sleep-and-health-analysis.qmd)
+### Sleep and Health Analysis
+Personal summer data exploration project. Beginning to make my first MLR. 
+
+[🔗 View the full repository here] [https://github.com/<Cheyenne232025S>/Sleep-Health-Analysis](https://github.com/Cheyenne232025S/Sleep-Health-Analysis/tree/main)
+
+### Code-Fest 2025: Marriott Hotel & Restaurant Recommender
+A Python + FastAPI project built for Virginia Tech’s CodeFest 2025. <br>
+Data Driven solution integrated with UI and LLM.<br>
+
+
+[🔗 View the full repository here] [https://github.com/<Cheyenne232025S>/code-fest-2025](https://github.com/Cheyenne232025S/code-fest-2025)
 
 ## Resume
-- [View my Resume (PDF)](./resume.pdf)
+- [View my Resume (PDF)](https://cheyenne232025s.github.io/Portfolio/resume_v2.pdf)
+    
