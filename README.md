@@ -26,8 +26,18 @@ This project applies regression, time-series, and GLM methods to identify key we
 
 ### CMDA 3654 Group Project
 
+This project was completed as part of CMDA 3654: Intro to Data Analytics & Visualization and focused on applying foundational data analysis techniques to a real, multi-variable dataset.
 
+Working in a team, we:
 
+- Identified key predictors of state-level SAT performance using exploratory analysis and regression methods
+
+- Visualized similarities between U.S. states based on education and SAT metrics
+
+- Applied clustering techniques and compared data-driven groupings to U.S. Census geographic regions
+
+📁 Tools & methods: Python (pandas, matplotlib/seaborn), regression analysis, clustering, data visualization
+📓 Deliverable: Jupyter Notebook (iterative analysis process)
 
 ## Resume
 - [View my Resume (PDF)](https://cheyenne232025s.github.io/Portfolio/resume_v2.pdf)
