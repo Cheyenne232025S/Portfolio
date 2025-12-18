@@ -39,6 +39,8 @@ Working in a team, we:
 📁 Tools & methods: Python (pandas, matplotlib/seaborn), regression analysis, clustering, data visualization
 📓 Deliverable: Jupyter Notebook (iterative analysis process)
 
+🔗 [View full project repository](https://github.com/Cheyenne232025S/CMDA-3654-Project)
+
 ## Resume
 - [View my Resume (PDF)](https://cheyenne232025s.github.io/Portfolio/resume_v2.pdf)
     
