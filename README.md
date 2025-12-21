@@ -47,11 +47,11 @@ A curated collection of LaTeX-written problem solutions from CMDA 3005: Dynamica
 
 Key topics include:
 
-Stability and steady-state analysis
+- Stability and steady-state analysis
 
-Linear and nonlinear difference equations
+- Linear and nonlinear difference equations
 
-Eigenvalues, eigenvectors, and long-run behavior
+- Eigenvalues, eigenvectors, and long-run behavior
 
 Applications to population models, SIR models, PageRank, and mechanical systems
 
