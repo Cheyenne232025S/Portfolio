@@ -1,15 +1,14 @@
 # Portfolio  
 My mathematics, coding, and Data Science Journey.
 
-## Projects and Coursework
 
-### Sleep and Health Analysis
+## Sleep and Health Analysis
 
 Personal summer data exploration project. Beginning to make my first MLR. 
 
 [🔗 View the full repository here](https://github.com/Cheyenne232025S/Sleep-Health-Analysis/tree/main)
 
-### Code-Fest 2025: Marriott Hotel & Restaurant Recommender
+## Code-Fest 2025: Marriott Hotel & Restaurant Recommender
 
 A Python + FastAPI project built for Virginia Tech’s CodeFest 2025. <br>
 Data Driven solution integrated with UI and LLM.<br>
@@ -17,14 +16,14 @@ Data Driven solution integrated with UI and LLM.<br>
 [🔗 View the full repository here](https://github.com/Cheyenne232025S/code-fest-2025) <br>
 🧷 [View my Certificate](https://github.com/Cheyenne232025S/Portfolio/blob/main/docs/Cheyenne_Erickson.png)
 
-### Alpine Butterfly Population Analysis
+## Alpine Butterfly Population Analysis
 
 Statistical analysis and predictive modeling of alpine butterfly populations using long-term weather and population time-series data.  
 This project applies regression, time-series, and GLM methods to identify key weather drivers and evaluate out-of-sample predictive performance.
 
 🔗 [View the full repository here](https://github.com/Cheyenne232025S/Apline_butterfly_Analysis)
 
-### CMDA 3654 Group Project
+## CMDA 3654 Group Project
 
 This project was completed as part of CMDA 3654: Intro to Data Analytics & Visualization and focused on applying foundational data analysis techniques to a real, multi-variable dataset.
 
@@ -41,7 +40,7 @@ Working in a team, we:
 
 🔗 [View full project repository](https://github.com/Cheyenne232025S/CMDA-3654-Project)
 
-### Dynamical Systems Coursework (CMDA 3005)
+## Dynamical Systems Coursework (CMDA 3005)
 
 A curated collection of LaTeX-written problem solutions from CMDA 3005: Dynamical Systems, completed over an entire semester. This repository demonstrates mathematical reasoning, clear technical communication, and the use of computational tools to analyze discrete and continuous systems.
 
