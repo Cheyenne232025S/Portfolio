@@ -22,7 +22,7 @@ Data Driven solution integrated with UI and LLM.<br>
 Statistical analysis and predictive modeling of alpine butterfly populations using long-term weather and population time-series data.  
 This project applies regression, time-series, and GLM methods to identify key weather drivers and evaluate out-of-sample predictive performance.
 
-🔗 [View the full repository here] [https://github.com/Cheyenne232025/Alpine_butterfly_Analysis)](https://github.com/Cheyenne232025S/Apline_butterfly_Analysis)
+🔗 [View the full repository here](https://github.com/Cheyenne232025S/Apline_butterfly_Analysis)
 
 ### CMDA 3654 Group Project
 
