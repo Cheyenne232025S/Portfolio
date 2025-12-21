@@ -1,5 +1,5 @@
 # Portfolio  
-My mathematics and Data Science Journey.
+My mathematics, coding, and Data Science Journey.
 
 ## Projects and Coursework
 
