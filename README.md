@@ -56,8 +56,14 @@ Applications to population models, SIR models, PageRank, and mechanical systems
 
 📄 Tools & methods: LaTeX, MATLAB
 📌 Focus: rigorous mathematical modeling and clear solution write-ups
-
 🔗 [View full repository](https://github.com/Cheyenne232025S/dynamical-systems)
+
+## Coding Projects
+- **WhackAShape** — Java data structures coursework project implementing custom
+  array-based and linked Bag abstractions with unit tests.  
+  🔗 [View repository](https://github.com/Cheyenne232025S/WhackAShape)
+
+
 
 ## Resume
 - [View my Resume (PDF)](https://cheyenne232025s.github.io/Portfolio/resume_v2.pdf)
