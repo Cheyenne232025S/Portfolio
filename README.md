@@ -1,7 +1,7 @@
 # Portfolio  
-My Data Science Journey.
+My mathematics and Data Science Journey.
 
-## Projects
+## Projects and Coursework
 
 ### Sleep and Health Analysis
 
