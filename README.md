@@ -41,6 +41,25 @@ Working in a team, we:
 
 🔗 [View full project repository](https://github.com/Cheyenne232025S/CMDA-3654-Project)
 
+### Dynamical Systems Coursework (CMDA 3005)
+
+A curated collection of LaTeX-written problem solutions from CMDA 3005: Dynamical Systems, completed over an entire semester. This repository demonstrates mathematical reasoning, clear technical communication, and the use of computational tools to analyze discrete and continuous systems.
+
+Key topics include:
+
+Stability and steady-state analysis
+
+Linear and nonlinear difference equations
+
+Eigenvalues, eigenvectors, and long-run behavior
+
+Applications to population models, SIR models, PageRank, and mechanical systems
+
+📄 Tools & methods: LaTeX, MATLAB
+📌 Focus: rigorous mathematical modeling and clear solution write-ups
+
+🔗 [View full repository](https://github.com/Cheyenne232025S/dynamical-systems)
+
 ## Resume
 - [View my Resume (PDF)](https://cheyenne232025s.github.io/Portfolio/resume_v2.pdf)
     
