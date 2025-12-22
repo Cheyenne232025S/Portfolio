@@ -63,6 +63,9 @@ Applications to population models, SIR models, PageRank, and mechanical systems
   array-based and linked Bag abstractions with unit tests.  
   🔗 [View repository](https://github.com/Cheyenne232025S/WhackAShape)
 
+- **Tower of Hanoi** — Java data structures coursework project featuring a recursive solver,
+  custom stack implementation, and graphical visualization.  
+  🔗 [View repository](https://github.com/Cheyenne232025S/TowerofHanoi)
 
 
 ## Resume
