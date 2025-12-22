@@ -71,6 +71,9 @@ Applications to population models, SIR models, PageRank, and mechanical systems
   and graphical display with unit testing.  
   🔗 [View repository](https://github.com/Cheyenne232025S/DisplayCollection)
 
+- **Spotify Playlist Generator** — Java data structures coursework project simulating Spotify Daily Mix–style playlist creation using queue-based processing, genre constraints, file parsing, and unit testing.  
+  🔗 [View repository](https://github.com/Cheyenne232025S/Spotify-Playlist)
+  
 ## Resume
 - [View my Resume (PDF)](https://cheyenne232025s.github.io/Portfolio/resume_v2.pdf)
     
