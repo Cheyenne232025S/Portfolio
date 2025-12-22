@@ -73,7 +73,10 @@ Applications to population models, SIR models, PageRank, and mechanical systems
 
 - **Spotify Playlist Generator** — Java data structures coursework project simulating Spotify Daily Mix–style playlist creation using queue-based processing, genre constraints, file parsing, and unit testing.  
   🔗 [View repository](https://github.com/Cheyenne232025S/Spotify-Playlist)
-  
+
+- **Influencer Analytics Dashboard** — Java group coursework project analyzing social media influencer performance using custom linked lists, engagement metrics (traditional and reach), comparator-based sorting, CSV input, and reproducible console output.  
+  🔗 [View repository](https://github.com/Cheyenne232025S/Influencer-Analytics-Dashboard)
+
 ## Resume
 - [View my Resume (PDF)](https://cheyenne232025s.github.io/Portfolio/resume_v2.pdf)
     
