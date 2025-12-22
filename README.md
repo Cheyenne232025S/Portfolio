@@ -67,6 +67,9 @@ Applications to population models, SIR models, PageRank, and mechanical systems
   custom stack implementation, and graphical visualization.  
   🔗 [View repository](https://github.com/Cheyenne232025S/TowerofHanoi)
 
+-  **DisplayCollection** — Java coursework project demonstrating collection management
+  and graphical display with unit testing.  
+  🔗 [View repository](https://github.com/Cheyenne232025S/DisplayCollection)
 
 ## Resume
 - [View my Resume (PDF)](https://cheyenne232025s.github.io/Portfolio/resume_v2.pdf)
