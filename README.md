@@ -58,6 +58,24 @@ Applications to population models, SIR models, PageRank, and mechanical systems
 📌 Focus: rigorous mathematical modeling and clear solution write-ups
 🔗 [View full repository](https://github.com/Cheyenne232025S/dynamical-systems)
 
+## Methods of Regression Analysis Coursework (STAT 4214)
+
+A curated collection of applied regression analyses from STAT 4214: Methods of Regression Analysis, completed over an entire semester. This repository demonstrates statistical modeling, diagnostic reasoning, and clear communication of results using real datasets.
+
+Key topics include:
+
+- Simple and multiple linear regression
+- Model assumptions and diagnostic analysis
+- Variable selection and multicollinearity
+- Interaction terms and transformations
+- Prediction, confidence intervals, and model interpretation
+
+📄 Tools & methods: R, R Markdown, LaTeX  
+📌 Focus: applied statistical modeling, diagnostics, and interpretability  
+🔗 [View full repository](https://github.com/Cheyenne232025S/Methods-of-Regression-Analysis)
+
+
+
 ## Coding Projects
 - **WhackAShape** — Java data structures coursework project implementing custom
   array-based and linked Bag abstractions with unit tests.  
