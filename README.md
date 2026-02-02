@@ -95,8 +95,9 @@ Key topics include:
   🔗 [View repository](https://github.com/Cheyenne232025S/Influencer-Analytics-Dashboard)
 
 ## Resume
-[View my Resume (PDF)](https://cheyenne232025s.github.io/Portfolio/docs/resume_v2.pdf)
-    
+[View my Resume (PDF)](https://github.com/Cheyenne232025S/Portfolio/blob/main/docs/resume_v2.pdf)
+
+
 ## More About Me
 - With my out-of-major courses I challenged by self to two semesters of Spanish as it is a life long goal of mine to become fluent. I made it to the intermidiate level with A's in all coures. Unfortunately, I had to stop learning in the classroom as I had other pathways to fullfill, but this is still something I plan to pursue
 
