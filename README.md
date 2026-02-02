@@ -1,5 +1,5 @@
 # Portfolio  
-My mathematics, coding, and Data Science Journey.
+My Mathematics, Coding, and Data Science Journey.
 
 
 ## Sleep and Health Analysis
