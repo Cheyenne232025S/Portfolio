@@ -54,7 +54,7 @@ Key topics include:
 
 Applications to population models, SIR models, PageRank, and mechanical systems
 
-📄 Tools & methods: LaTeX, MATLAB
+📁 Tools & methods: LaTeX, MATLAB
 📌 Focus: rigorous mathematical modeling and clear solution write-ups
 🔗 [View full repository](https://github.com/Cheyenne232025S/dynamical-systems)
 
@@ -70,7 +70,7 @@ Key topics include:
 - Interaction terms and transformations
 - Prediction, confidence intervals, and model interpretation
 
-📄 Tools & methods: R, R Markdown, LaTeX  
+📁 Tools & methods: R, R Markdown, LaTeX  
 📌 Focus: applied statistical modeling, diagnostics, and interpretability  
 🔗 [View full repository](https://github.com/Cheyenne232025S/Methods-of-Regression-Analysis)
 
