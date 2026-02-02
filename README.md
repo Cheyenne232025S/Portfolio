@@ -37,7 +37,6 @@ Working in a team, we:
 
 📁 Tools & methods: Python (pandas, matplotlib/seaborn), regression analysis, clustering, data visualization <br>
 📓 Deliverable: Jupyter Notebook (iterative analysis process)
-
 🔗 [View full project repository](https://github.com/Cheyenne232025S/CMDA-3654-Project)
 
 ## Dynamical Systems Coursework (CMDA 3005)
@@ -54,8 +53,8 @@ Key topics include:
 
 Applications to population models, SIR models, PageRank, and mechanical systems
 
-📁 Tools & methods: LaTeX, MATLAB
-📌 Focus: rigorous mathematical modeling and clear solution write-ups
+📁 Tools & methods: LaTeX, MATLAB <br>
+📌 Focus: rigorous mathematical modeling and clear solution write-ups <br>
 🔗 [View full repository](https://github.com/Cheyenne232025S/dynamical-systems)
 
 ## Methods of Regression Analysis Coursework (STAT 4214)
@@ -70,8 +69,8 @@ Key topics include:
 - Interaction terms and transformations
 - Prediction, confidence intervals, and model interpretation
 
-📁 Tools & methods: R, R Markdown, LaTeX  
-📌 Focus: applied statistical modeling, diagnostics, and interpretability  
+📁 Tools & methods: R, R Markdown, LaTeX <br>
+📌 Focus: applied statistical modeling, diagnostics, and interpretability <br>
 🔗 [View full repository](https://github.com/Cheyenne232025S/Methods-of-Regression-Analysis)
 
 
