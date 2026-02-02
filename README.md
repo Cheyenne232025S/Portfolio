@@ -36,7 +36,7 @@ Working in a team, we:
 - Applied clustering techniques and compared data-driven groupings to U.S. Census geographic regions
 
 📁 Tools & methods: Python (pandas, matplotlib/seaborn), regression analysis, clustering, data visualization <br>
-📓 Deliverable: Jupyter Notebook (iterative analysis process)
+📓 Deliverable: Jupyter Notebook (iterative analysis process) <br>
 🔗 [View full project repository](https://github.com/Cheyenne232025S/CMDA-3654-Project)
 
 ## Dynamical Systems Coursework (CMDA 3005)
