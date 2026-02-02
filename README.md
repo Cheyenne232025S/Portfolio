@@ -102,3 +102,5 @@ Key topics include:
 - With my out-of-major courses I challenged by self to two semesters of Spanish as it is a life long goal of mine to become fluent. I made it to the intermidiate level with A's in all coures. Unfortunately, I had to stop learning in the classroom as I had other pathways to fullfill, but this is still something I plan to pursue
 
 - Outside of learning I have many creative and physical hobbies. For starters, my current favorite, I like to play, practice, write, record, and sound engineer music (Below I will link to a repo with some small audio files containing music I have created). I also enjoy adding to an ongoing junk/scrap journal while I watch my favorite shows. I enjoy reading; recently I have been really enjoying sci-fi books like ready player one, ready player two, and the three body problem series. As far as physical activities, I love to go hiking alone and with my closest friends. Next up would be playing basketball which I have been doing since I was very young (with respect to my current age ;) ).
+
+- [View my Sound Engineering and Music Creation journey!](https://github.com/Cheyenne232025S/My-Music/tree/main)
