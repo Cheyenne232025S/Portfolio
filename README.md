@@ -101,7 +101,7 @@ Key topics include:
 ## More About Me
 - I am a kind, energetic, and enthustiatic person who takes pride In how I treat others. I value my relationships and recieve immense satisfaction from helping others. Hence why I would love to work in a Data Science niche that works towards a goal of helping others and bettering the lives of todays' and the future generations. I want to do this alongside others of different expertise who have a common desire for purpose in this way.
 
-- Although my first job within data science may not be my dream job described above, I believe it will be of value to me as it begins my professional career as a data sciencetist. Additionally I believe I will be of value to them for the reasons described above and for my ambition, attitude, hard work, and strive to be successfull.
+- Although my first job within data science may not be my dream job described above, I believe it will be of value to me as it begins my professional career as a data scientist. Additionally I believe I will be of value to them for the reasons described above and for my ambition, attitude, hard work, and strive to be successfull.
 
 - With my out-of-major courses I challenged by self to two semesters of Spanish as it is a life long goal of mine to become fluent. I made it to the intermidiate level with A's in all coures. Unfortunately, I had to stop learning in the classroom as I had other pathways to fullfill, but this is still something I plan to pursue
 
