@@ -1,6 +1,6 @@
 # Portfolio  
 My Mathematics, Coding, and Data Science Journey.
-
+ 
 ## Code-Fest 2025: Marriott Hotel & Restaurant Recommender
 
 A Python + FastAPI project built for Virginia Tech’s CodeFest 2025. <br>
@@ -86,6 +86,11 @@ Key topics include:
 
 - **Influencer Analytics Dashboard** — Java group coursework project analyzing social media influencer performance using custom linked lists, engagement metrics (traditional and reach), comparator-based sorting, CSV input, and reproducible console output.  
   🔗 [View repository](https://github.com/Cheyenne232025S/Influencer-Analytics-Dashboard)
+
+## Two Body Problem (Curiosity Project) (Pyhton)
+Built a physics-based simulation of the Earth–Sun system by deriving and solving the two-body gravitational ODE in Python. Implemented and compared high-order Runge–Kutta solvers (RK45 and DOP853), analyzed long-term numerical stability, and evaluated energy and angular momentum conservation. <br>
+This project demonstrates applied differential equations, numerical methods, and scientific computing.<br>
+🔗 [View the full repository here](https://github.com/Cheyenne232025S/Two-Body-Problem)
 
 ## Sleep and Health Analysis
 
