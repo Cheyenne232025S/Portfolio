@@ -1,13 +1,6 @@
 # Portfolio  
 My Mathematics, Coding, and Data Science Journey.
 
-
-## Sleep and Health Analysis
-
-Personal summer data exploration project. Beginning to make my first MLR. 
-
-🔗 [View the full repository here](https://github.com/Cheyenne232025S/Sleep-Health-Analysis/tree/main)
-
 ## Code-Fest 2025: Marriott Hotel & Restaurant Recommender
 
 A Python + FastAPI project built for Virginia Tech’s CodeFest 2025. <br>
@@ -93,6 +86,13 @@ Key topics include:
 
 - **Influencer Analytics Dashboard** — Java group coursework project analyzing social media influencer performance using custom linked lists, engagement metrics (traditional and reach), comparator-based sorting, CSV input, and reproducible console output.  
   🔗 [View repository](https://github.com/Cheyenne232025S/Influencer-Analytics-Dashboard)
+
+## Sleep and Health Analysis
+
+Personal summer data exploration project. Beginning to make my first MLR. 
+
+🔗 [View the full repository here](https://github.com/Cheyenne232025S/Sleep-Health-Analysis/tree/main)
+
 
 ## Resume
 [View my Resume (PDF)](https://github.com/Cheyenne232025S/Portfolio/blob/main/docs/resume_v2.pdf)
