@@ -106,7 +106,7 @@ Personal summer data exploration project. Beginning to make my first MLR.
 
 ## Awards
 
-[Deans's List Fall 2024]
+[Deans's List Fall 2024](docs/Dean's Fall 2024)
 [Dean's List Spring 2025]
 [Dean's List Fall 2025]
 
