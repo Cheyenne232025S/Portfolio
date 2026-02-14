@@ -107,8 +107,8 @@ Personal summer data exploration project. Beginning to make my first MLR.
 ## Awards
 
 [Deans's List Fall 2024](https://github.com/Cheyenne232025S/Portfolio/blob/main/docs/Dean's_Fall_2024.pdf)<br>
-[Dean's List Spring 2025]
-[Dean's List Fall 2025]
+[Dean's List Spring 2025](https://github.com/Cheyenne232025S/Portfolio/blob/main/docs/Dean's_Spring_2025.pdf)<br>
+[Dean's List Fall 2025](https://github.com/Cheyenne232025S/Portfolio/blob/main/docs/Dean's_Fall_2025.png)
 
 
 ## More About Me
