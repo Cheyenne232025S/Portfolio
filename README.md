@@ -104,6 +104,12 @@ Personal summer data exploration project. Beginning to make my first MLR.
 ## Resume
 [View my Resume (PDF)](https://github.com/Cheyenne232025S/Portfolio/blob/main/docs/resume_v2.pdf)
 
+## Awards
+
+[Deans's List Fall 2024]
+[Dean's List Spring 2025]
+[Dean's List Fall 2025]
+
 
 ## More About Me
 - I am a kind, energetic, and enthustiatic person who takes pride In how I treat others. I value my relationships and recieve immense satisfaction from helping others. Hence why I would love to work in a Data Science niche that works towards a goal of helping others and bettering the lives of todays' and the future generations. I want to do this alongside others of different expertise who have a common desire for purpose in this way.
